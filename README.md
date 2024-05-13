@@ -1,14 +1,7 @@
-# Solidity-Examples
 
-This repository contains examples and projects related to the "Blockchain Developer" course. The course covers various aspects of blockchain development using Solidity, Ethereum, and related technologies.
+![6af6bb85857e9ffff51fa7dcf58bec71](https://github.com/berkcicekk/Solidity-Examples/assets/90208101/f091609e-53fc-4235-a534-3c8f6acbffa5)
 
-## Course Information
-- **Course Link:** [Solidity-Examples Course](https://www.udemy.com/course/blockchain-developer/)
 
-## Contents
-- Solidity code examples
-- Ethereum smart contract projects
-- Blockchain development exercises
 
 ## How to Use
 1. Clone the repository to your local machine.
